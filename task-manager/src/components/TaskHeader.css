@@ -1,0 +1,7 @@
+.task-home-manipulate{
+    display: inline-flex;
+    gap: 0.5rem;
+}
+.all-tasks{
+    font-weight: 500;
+}

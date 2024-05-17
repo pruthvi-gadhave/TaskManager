@@ -1,0 +1,8 @@
+.table-font-size{
+    font-size: 1rem !important;
+    color: gray !important;
+}
+.table-font-size:focus{
+    outline: none !important;
+    border: none !important;
+}
