@@ -7,6 +7,7 @@ export default function TaskHeader() {
     <div className='d-flex justify-content-between pt-4'>
       <div className='fs-5 p-2 all-tasks'>
         All Tasks
+      
       </div>
       <div className='task-home-manipulate'>
         <NewButton />

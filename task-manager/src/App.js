@@ -4,6 +4,7 @@ import Sidebar from './components/Sidebar';
 import { Router, Routes, Route } from "react-router-dom" ;
 import TaskList from './components/TaskList';
 import TimeTracker from './components/TimeTracker';
+import TaskForm from './components/TaskForm';
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
           <Route exact path="/timetracker" element={<TimeTracker />} />
         </Routes>
       </div>
+      <TaskForm/>
     </div>
 
   );

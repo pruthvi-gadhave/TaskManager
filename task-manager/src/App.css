@@ -3,3 +3,6 @@
     grid-template-columns: 16% 84%; 
     height :100vh ;
 }
+.task-modal .modal-content{
+width :max-content ;
+}
